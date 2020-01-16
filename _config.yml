@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: The Schnable Lab@UNL
-site.title: The Schnable Lab@UNL
+name: The Thompson Lab
+site.title: The Thompson Lab
 # Short bio or description (displayed in the header)
-description: Hypothesis Driven Research in Plant Genomics and Phenomics
+description: Maize research at Michigan State University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/lab_logo.jpg
