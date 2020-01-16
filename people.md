@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** | **ORCID**
-|![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/jschnable/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
+|![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/jschnable/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|0000-0002-4442-6578|
 |![Test Person](/images/People_Images/Sierra.jpg){:width="120"}|Test Person|Bachelors Student|||
 {:.table100.ver1}
 
