@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schnable Lab Members
+title: Thompson Lab Members
 
 googlefonts: ["Monoton", "Lobster"]
 ---
