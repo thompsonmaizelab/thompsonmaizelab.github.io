@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Schnable Lab Members
+title: Thompson Lab Members
 
 googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** | **ORCID**
-|![Addie Thompson](/images/People_Images/jamesschnable.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/jschnable/)<a href="https://twitter.com/szintri"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Associate Professor|[CV](/CVs/JSchnable.pdf)|0000-0001-6739-5527|
-|![Test Person](/images/People_Images/Sierra.jpg){:width="120"}|Test Person|Bachelors Student|||
+|![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/jschnable/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/JSchnable.pdf)|0000-0002-4442-6578|
+|![Linsey Newton](/images/People_Images/linseynewton.jpg){:width="120"}|Linsey Newton|Lab and Field Manager|||
 {:.table100.ver1}
 
 **Lab Alumni**
