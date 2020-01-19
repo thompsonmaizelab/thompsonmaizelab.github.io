@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schnable Lab
-subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
+title: Thompson Lab
+subtitle: Maize genetics research at Michigan State University
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
@@ -11,19 +11,19 @@ bigimg:
 <script type="application/ld+json">
 { "@context": "https://schema.org",
  "@type": "Organization",
- "name": "Schnable Lab",
- "url": "http://schnablelab.org/",
- "logo": "http://schnablelab.org/images/lab_logo.jpg",
- "foundingDate": "2014",
+ "name": "Thompson Lab",
+ "url": "http://www.thompsonmaizelab.org/",
+ "logo": "http://www.thompsonmaizelab.org/images/lab_logo.jpg",
+ "foundingDate": "2018",
  "founders": [
  {
  "@type": "Person",
- "name": "James Schnable",
+ "name": "Addie Thompson",
   "Description": "Scientist",
- "alternateName": "James C. Schnable",
+ "alternateName": "Addie M. Thompson",
  "alumniOf": {
    "type": "CollegeOrUniversity",
-   "name": "University of California-Berkeley",
+   "name": "University of Minnesota",
    "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
  },
  "award": [
