@@ -54,7 +54,7 @@ bigimg:
  ]}
 </script>
 
-![The Whole Thompson Lab](/images/labpic.jpg){:width="900" align="middle" }
+![The Whole Thompson Lab](/images/Front_Page_Images/group2019cropped.jpg){:width="900" align="middle" }
 
 Description of our lab
 
