@@ -5,7 +5,7 @@ subtitle: Maize genetics research at Michigan State University
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/images/Front_Page_Images/header.png" : ""
+  - "/images/Front_Page_Images/group2019cropped.jpg" : ""
 ---
 
 <script type="application/ld+json">
