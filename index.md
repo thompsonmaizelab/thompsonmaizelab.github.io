@@ -5,7 +5,7 @@ subtitle: Maize genetics research at Michigan State University
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/images/Front_Page_Images/group2019cropped.jpg" : ""
+  - "/images/Front_Page_Images/group2019cropped3.jpg" : ""
 ---
 
 <script type="application/ld+json">
@@ -54,7 +54,7 @@ bigimg:
  ]}
 </script>
 
-![The Whole Thompson Lab](/images/Front_Page_Images/group2019cropped.jpg){:width="900" align="middle" }
+![The Whole Thompson Lab](/images/Front_Page_Images/group2019cropped3.jpg){:width="900" align="middle" }
 
 Description of our lab
 
