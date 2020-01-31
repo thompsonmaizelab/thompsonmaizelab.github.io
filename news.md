@@ -10,7 +10,7 @@ title: Thompson Lab News
 
 ### December 2019
 
-* [Blake's poster wins 3rd place in Corteva Plant Breeding Symposium](/images/News_Images/december2019blake.jpg){:width="600" align="middle"}
+* [Blake's poster wins 3rd place in Corteva Plant Breeding Symposium](/images/News_Images/december2019blake.jpg){:width="200" align="middle"}
 *Thank you Eli for the photo*
 
 ### September 2019
