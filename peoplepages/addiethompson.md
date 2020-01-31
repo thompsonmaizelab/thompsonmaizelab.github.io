@@ -37,7 +37,7 @@ title: Addie Thompson
 }
 </script>
 
-![Addie Thompson](/images/People_Images/addiethompson.jpg){:align="middle"}|
+![Addie Thompson](/images/People_Images/addiethompson.jpg){:width=600 align="middle"}|
 
 **ORCID ID:** 0000-0002-4442-6578
 <br><br>
