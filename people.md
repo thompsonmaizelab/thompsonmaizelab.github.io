@@ -19,7 +19,9 @@ googlefonts: ["Monoton", "Lobster"]
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|[CV](/CVs/josephkelly.pdf)||
 |![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.jpg){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|[CV](/CVs/joshuaschwartz.pdf)||
+|![Reid Becker](/images/People_Images/reidbecker.jpg){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
 {:.table100.ver1}
+
 
 **Lab Alumni**
 

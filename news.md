@@ -6,16 +6,15 @@ title: Thompson Lab News
 
 ### January 2020
 
-* We have a lab website! 
-
-* Test News Item
+* We finally have an official lab website!
 
 ### December 2019
 
-* [Test News Item](https://twitter.com/szintri/status/1178714959187808267), text.
+* [Blake's poster wins 3rd place in Corteva Plant Breeding Symposium] (/images/News_Images/december2019blake.jpg){:width="600" align="middle"}
+*Thank you Eli for the photo*
 
-* Test thing with picture
+### September 2019
 
-![This Picture](/images/News_Images/Summer19Graduation.jpg){:width="600" align="middle"}
+* [New DOE grant](https://www.canr.msu.edu/news/msu-researchers-part-of-2-7-million-project-funded-by-department-of-energy) on sorghum functional genomics.
 
-*Thank you for the photo*
+

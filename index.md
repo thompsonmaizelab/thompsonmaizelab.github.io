@@ -24,7 +24,6 @@ bigimg:
  "alumniOf": {
    "type": "CollegeOrUniversity",
    "name": "University of Minnesota",
-   "sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
  },
  "award": [
    "Award (year)"
@@ -56,13 +55,7 @@ bigimg:
 
 ![The Whole Thompson Lab](/images/Front_Page_Images/group2019cropped3.jpg){:width="900" align="middle" }
 
-Description of our lab
-
-**Come work with us!**
-
-Recruiting undergraduates for spring/summer
-<br><br>
-Openings for postdocs or graduate students (without their own source of support) fluctuate based on avaliablity of grant funds.
-<br><br>
+Our lab is interested in studying maize, and how different genotypes grow in different environments. We use many technologies and approaches to investigate this area, from quantitative genetics to phenomics to statistical and physiological modeling. Emphasis is placed on addressing biologically meaningful and agriculturally relevant questions, with both domestic and international potential applications. 
+<br>
 Read more about [ongoing projects in the lab](/research/).
-<br><br>
+<br>
