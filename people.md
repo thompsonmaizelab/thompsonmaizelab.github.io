@@ -17,16 +17,16 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|[CV](/CVs/chloejones.pdf)||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|[CV](/CVs/sidneysitar.pdf)||
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|[CV](/CVs/josephkelly.pdf)||
-|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
+|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|[CV](/CVs/joshuaschwartz.pdf)||
 |![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
-|![Nigel Akoma](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
-|![Sophia Holtz](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Sophia Holtz](/peoplepages/sophiaholtz/)|Undergraduate Researcher|[CV](/CVs/sophiaholtz.pdf)||
-|![Matthew Salo](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Matthew Salo](/peoplepages/matthewsalo/)|Undergraduate Researcher|[CV](/CVs/matthewsalo.pdf)||
-|![Lauren Truitt](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Lauren Truitt](/peoplepages/laurentruitt/)|Undergraduate Researcher|[CV](/CVs/laurentruitt.pdf)||
-|![Emma Chrzanowski](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Emma Chrzanowski](/peoplepages/emmachrzanowski/)|Undergraduate Researcher|[CV](/CVs/emmachrzanowski.pdf)||
-|![Makayla Liermann](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Makayla Liermann](/peoplepages/makaylaliermann/)|Undergraduate Researcher|[CV](/CVs/makaylaliermann.pdf)||
-|![Carolina Freitas](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Carolina Freitas](/peoplepages/carolinafreitas/)|Undergraduate Researcher|[CV](/CVs/carolinafreitas.pdf)||
+|![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
+|![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Sophia Holtz](/peoplepages/sophiaholtz/)|Undergraduate Researcher|[CV](/CVs/sophiaholtz.pdf)||
+|![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Matthew Salo](/peoplepages/matthewsalo/)|Undergraduate Researcher|[CV](/CVs/matthewsalo.pdf)||
+|![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Lauren Truitt](/peoplepages/laurentruitt/)|Undergraduate Researcher|[CV](/CVs/laurentruitt.pdf)||
+|![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Emma Chrzanowski](/peoplepages/emmachrzanowski/)|Undergraduate Researcher|[CV](/CVs/emmachrzanowski.pdf)||
+|![Makayla Liermann](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Makayla Liermann](/peoplepages/makaylaliermann/)|Undergraduate Researcher|[CV](/CVs/makaylaliermann.pdf)||
+|![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Carolina Freitas](/peoplepages/carolinafreitas/)|Undergraduate Researcher|[CV](/CVs/carolinafreitas.pdf)||
 {:.table100.ver1}
 
 
@@ -37,12 +37,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Zubair Ahmed](/images/People_Images/zubairahmed.jpg){:width="120" align="middle"}|Zubair Ahmed|Visiting Scholar|2019||
 |![Maria Khalid](/images/People_Images/mariakhalid.jpg){:width="120" align="middle"}|Maria Khalid|Visiting Scholar|2019||
 |![Mine Gezgin](/images/People_Images/minegezgin.jpg){:width="120" align="middle"}|Mine Gezgin|Undergraduate Researcher|2018-2019| Neogen|
-|![Syed Hossain](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
-|![Christine Schafer](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
+|![Syed Hossain](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
+|![Christine Schafer](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
 |![Elliot Kadrofske](/images/People_Images/elliotkadrofske.jpg){:width="120" align="middle"}|Elliot Kadrofske|Undergraduate Researcher|Summer 2018-19||
 |![Folashaday Shoneye](/images/People_Images/folashadayshoneye.jpg){:width="120" align="middle"}|Folashaday Shoneye|MAP High School Researcher|Summer 2019||
-|![Jake Carden](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Jake Carden|Undergraduate Researcher|Summer 2019||
-|![Justin Carbary](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Justin Carbary|Undergraduate Researcher|Summer 2019||
+|![Jake Carden](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jake Carden|Undergraduate Researcher|Summer 2019||
+|![Justin Carbary](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Justin Carbary|Undergraduate Researcher|Summer 2019||
 |![Traverse Jurcisin](/images/People_Images/traversejurcisin.jpg){:width="120" align="middle"}|Traverse Jurcisin|Undergraduate Researcher|2018||
 |![Katherine Pan](/images/People_Images/katherinepan.jpg){:width="120" align="middle"}|Katherine Pan|HSHSP High School Researcher|Summer 2018||
 |![Kristyn Bawol](/images/People_Images/kristynbawol.jpg){:width="120" align="middle"}|Kristyn Bawol|Undergraduate Researcher|Summer 2018||
