@@ -19,7 +19,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|[CV](/CVs/josephkelly.pdf)||
 |![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|[CV](/CVs/joshuaschwartz.pdf)||
-|![Reid Becker](/images/People_Images/reidbecker.jpg){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
+|![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
 {:.table100.ver1}
 |![Nigel Akoma](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
 {:.table100.ver1}
@@ -44,12 +44,12 @@ googlefonts: ["Monoton", "Lobster"]
 |![Zubair Ahmed](/images/People_Images/zubairahmed.jpg){:width="120" align="middle"}|Zubair Ahmed|Visiting Scholar|2019||
 |![Maria Khalid](/images/People_Images/mariakhalid.jpg){:width="120" align="middle"}|Maria Khalid|Visiting Scholar|2019||
 |![Mine Gezgin](/images/People_Images/minegezgin.jpg){:width="120" align="middle"}|Mine Gezgin|Undergraduate Researcher|2018-2019| Neogen|
-|![Syed Hossain](/images/People_Images/syedhossain.jpg){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
-|![Christine Schafer](/images/People_Images/christineschafer.jpg){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
+|![Syed Hossain](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
+|![Christine Schafer](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
 |![Elliot Kadrofske](/images/People_Images/elliotkadrofske.jpg){:width="120" align="middle"}|Elliot Kadrofske|Undergraduate Researcher|Summer 2018-19||
 |![Folashaday Shoneye](/images/People_Images/folashadayshoneye.jpg){:width="120" align="middle"}|Folashaday Shoneye|MAP High School Researcher|Summer 2019||
-|![Jake Carden](/images/People_Images/jakecarden.jpg){:width="120" align="middle"}|Jake Carden|Undergraduate Researcher|Summer 2019||
-|![Justin Carbary](/images/People_Images/justincarbary.jpg){:width="120" align="middle"}|Justin Carbary|Undergraduate Researcher|Summer 2019||
+|![Jake Carden](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Jake Carden|Undergraduate Researcher|Summer 2019||
+|![Justin Carbary](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|Justin Carbary|Undergraduate Researcher|Summer 2019||
 |![Traverse Jurcisin](/images/People_Images/traversejurcisin.jpg){:width="120" align="middle"}|Traverse Jurcisin|Undergraduate Researcher|2018||
 |![Katherine Pan](/images/People_Images/katherinepan.jpg){:width="120" align="middle"}|Katherine Pan|HSHSP High School Researcher|Summer 2018||
 |![Kristyn Bawol](/images/People_Images/kristynbawol.jpg){:width="120" align="middle"}|Kristyn Bawol|Undergraduate Researcher|Summer 2018||
