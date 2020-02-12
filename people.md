@@ -17,23 +17,23 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|[CV](/CVs/chloejones.pdf)||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|[CV](/CVs/sidneysitar.pdf)||
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|[CV](/CVs/josephkelly.pdf)||
-|![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.jpg){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
+|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|[CV](/CVs/joshuaschwartz.pdf)||
 |![Reid Becker](/images/People_Images/reidbecker.jpg){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
 {:.table100.ver1}
-|![Nigel Akoma](/images/People_Images/nigelakoma.jpg){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
+|![Nigel Akoma](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
 {:.table100.ver1}
-|![Sophia Holtz](/images/People_Images/sophiaholtz.jpg){:width="120" align="middle"}|[Sophia Holtz](/peoplepages/sophiaholtz/)|Undergraduate Researcher|[CV](/CVs/sophiaholtz.pdf)||
+|![Sophia Holtz](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Sophia Holtz](/peoplepages/sophiaholtz/)|Undergraduate Researcher|[CV](/CVs/sophiaholtz.pdf)||
 {:.table100.ver1}
-|![Matthew Salo](/images/People_Images/matthewsalo.jpg){:width="120" align="middle"}|[Matthew Salo](/peoplepages/matthewsalo/)|Undergraduate Researcher|[CV](/CVs/matthewsalo.pdf)||
+|![Matthew Salo](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Matthew Salo](/peoplepages/matthewsalo/)|Undergraduate Researcher|[CV](/CVs/matthewsalo.pdf)||
 {:.table100.ver1}
-|![Lauren Truitt](/images/People_Images/laurentruitt.jpg){:width="120" align="middle"}|[Lauren Truitt](/peoplepages/laurentruitt/)|Undergraduate Researcher|[CV](/CVs/laurentruitt.pdf)||
+|![Lauren Truitt](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Lauren Truitt](/peoplepages/laurentruitt/)|Undergraduate Researcher|[CV](/CVs/laurentruitt.pdf)||
 {:.table100.ver1}
-|![Emma Chrzanowski](/images/People_Images/emmachrzanowski.jpg){:width="120" align="middle"}|[Emma Chrzanowski](/peoplepages/emmachrzanowski/)|Undergraduate Researcher|[CV](/CVs/emmachrzanowski.pdf)||
+|![Emma Chrzanowski](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Emma Chrzanowski](/peoplepages/emmachrzanowski/)|Undergraduate Researcher|[CV](/CVs/emmachrzanowski.pdf)||
 {:.table100.ver1}
-|![Makayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|[Makayla Liermann](/peoplepages/makaylaliermann/)|Undergraduate Researcher|[CV](/CVs/makaylaliermann.pdf)||
+|![Makayla Liermann](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Makayla Liermann](/peoplepages/makaylaliermann/)|Undergraduate Researcher|[CV](/CVs/makaylaliermann.pdf)||
 {:.table100.ver1}
-|![Carolina Freitas](/images/People_Images/carolinafreitas.jpg){:width="120" align="middle"}|[Carolina Freitas](/peoplepages/carolinafreitas/)|Undergraduate Researcher|[CV](/CVs/carolinafreitas.pdf)||
+|![Carolina Freitas](/images/People_Images/nopictureyet.jpg){:width="120" align="middle"}|[Carolina Freitas](/peoplepages/carolinafreitas/)|Undergraduate Researcher|[CV](/CVs/carolinafreitas.pdf)||
 {:.table100.ver1}
 
 
