@@ -15,18 +15,18 @@ googlefonts: ["Monoton", "Lobster"]
 |![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|[CV](/CVs/blaketrygestad.pdf)||
 |![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|[CV](/CVs/phonglos.pdf)||
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|[CV](/CVs/chloejones.pdf)||
-|![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|[CV](/CVs/sidneysitar.pdf)||
-|![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|[CV](/CVs/josephkelly.pdf)||
-|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|[CV](/CVs/dayoonlee.pdf)||
-|![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|[CV](/CVs/joshuaschwartz.pdf)||
-|![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|[CV](/CVs/reidbecker.pdf)||
-|![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Nigel Akoma](/peoplepages/nigelakoma/)|Undergraduate Researcher|[CV](/CVs/nigelakoma.pdf)||
-|![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Sophia Holtz](/peoplepages/sophiaholtz/)|Undergraduate Researcher|[CV](/CVs/sophiaholtz.pdf)||
-|![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Matthew Salo](/peoplepages/matthewsalo/)|Undergraduate Researcher|[CV](/CVs/matthewsalo.pdf)||
-|![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Lauren Truitt](/peoplepages/laurentruitt/)|Undergraduate Researcher|[CV](/CVs/laurentruitt.pdf)||
-|![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Emma Chrzanowski](/peoplepages/emmachrzanowski/)|Undergraduate Researcher|[CV](/CVs/emmachrzanowski.pdf)||
-|![Makayla Liermann](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Makayla Liermann](/peoplepages/makaylaliermann/)|Undergraduate Researcher|[CV](/CVs/makaylaliermann.pdf)||
-|![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Carolina Freitas](/peoplepages/carolinafreitas/)|Undergraduate Researcher|[CV](/CVs/carolinafreitas.pdf)||
+|![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|||
+|![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|||
+|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
+|![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|||
+|![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|||
+|![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Nigel Akoma]|Undergraduate Researcher|||
+|![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Sophia Holtz]|Undergraduate Researcher|||
+|![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Matthew Salo]|Undergraduate Researcher|||
+|![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Lauren Truitt]|Undergraduate Researcher|||
+|![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Emma Chrzanowski]|Undergraduate Researcher|||
+|![Makayla Liermann](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Makayla Liermann]|Undergraduate Researcher|||
+|![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Carolina Freitas]|Undergraduate Researcher|||
 {:.table100.ver1}
 
 
