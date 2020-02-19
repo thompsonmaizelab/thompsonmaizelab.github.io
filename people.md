@@ -25,7 +25,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Matthew Salo|Undergraduate Researcher|||
 |![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Lauren Truitt|Undergraduate Researcher|||
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
-|![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|Makayla Liermann|Undergraduate Researcher|||
+|![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|MaKayla Liermann|Undergraduate Researcher|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
 {:.table100.ver1}
 
