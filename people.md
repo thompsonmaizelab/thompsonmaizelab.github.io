@@ -17,7 +17,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|[CV](/CVs/chloejones.pdf)||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|||
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|||
-|![Dahlia (Dayoon) Lee](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
+|![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|||
 |![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|||
 |![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nigel Akoma|Undergraduate Researcher|||
@@ -25,7 +25,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Matthew Salo|Undergraduate Researcher|||
 |![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Lauren Truitt|Undergraduate Researcher|||
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
-|![Makayla Liermann](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Makayla Liermann|Undergraduate Researcher|||
+|![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|Makayla Liermann|Undergraduate Researcher|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
 {:.table100.ver1}
 
