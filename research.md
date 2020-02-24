@@ -14,9 +14,9 @@ These are the main areas of research in the Thompson Lab at Michigan State Unive
 
 ## Quantitative Genetics
 
-At the heart of most of the questions we ask is a drive to understand how the differences in genetic sequences observed between different varieties affect their phenotypes, or physical characteristics. These characteristics may be easily visible (e.g. plant height, flowering time), more complex to describe (e.g. canopy structure, leaf or seed size and shape), apparent only over time (e.g. growth rate, canopy closure) or in certain environments (e.g. drought response, nutrient deficiency), or even invisible to the naked eye (e.g. hyperspectral reflectance and transmittance, chemical composition). Our lab seeks to map and identify candiate genes affecting different traits in maize, as well as predicting and dissecting the interaction of genotypes in diverse environments.
+At the heart of most of the questions we ask is a drive to understand how the differences in genetic sequences observed between different varieties affect their phenotypes, or physical characteristics. These characteristics may be easily visible (e.g. plant height, flowering time), more complex to describe (e.g. canopy structure, leaf or seed size and shape), apparent only over time (e.g. growth rate, canopy closure) or in certain environments (e.g. drought response, nutrient deficiency), or even invisible to the naked eye (e.g. hyperspectral reflectance and transmittance, chemical composition). Our lab seeks to map and identify candiate genes affecting key traits in maize (and sorghum) that impact yield and biomass, as well as using crop growth modeling and statistics to predict and dissect the interaction of genotypes in diverse environments.
 
-![QuantGen](/images/Science_Images/quantgen.jpg)
+One of the applications of this research is our current project on isolating and pre-breeding resistance to tar spot, a new disease in maize.
 
 <a id="Phenotying" />
 
@@ -30,6 +30,4 @@ As our research in quantitative genetics relies on measuring the phenotypes of t
 
 ## Miscellaneous Other Cool Science
 
-Everything else.
-
-![Other](/images/Science_Images/other.jpg)
+We have several side projects, including assessing biological nitrogen fixation in dry beans, breeding population and selection optimization, rapid and low-cost detection of DNA sequences, and others. Read through the students' pages to learn more about our diverse interests!
