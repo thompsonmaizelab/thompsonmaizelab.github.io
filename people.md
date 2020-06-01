@@ -14,11 +14,8 @@ googlefonts: ["Monoton", "Lobster"]
 |![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)||
 |![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|[CV](/CVs/blaketrygestad.pdf)||
 |![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|[CV](/CVs/phonglos.pdf)||
-|![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|[CV](/CVs/chloejones.pdf)||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|||
-|![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|||
 |![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
-|![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|||
 |![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|||
 |![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nigel Akoma|Undergraduate Researcher|||
 |![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Sophia Holtz|Undergraduate Researcher|||
@@ -27,12 +24,16 @@ googlefonts: ["Monoton", "Lobster"]
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
 |![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|MaKayla Liermann|Undergraduate Researcher|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
+|![Nakoa Po](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nakoa Po|Undergraduate Researcher|||
 {:.table100.ver1}
 
 
 **Lab Alumni**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|2019-2020||
+|![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|2018-2020||
+|![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|2019-2020||
 ![Zafar Wazir](/images/People_Images/zafarwazir.jpg){:width="120" align="middle"}|Zafar Wazir|Undergraduate Researcher|2018-2019||
 |![Zubair Ahmed](/images/People_Images/zubairahmed.jpg){:width="120" align="middle"}|Zubair Ahmed|Visiting Scholar|2019||
 |![Maria Khalid](/images/People_Images/mariakhalid.jpg){:width="120" align="middle"}|Maria Khalid|Visiting Scholar|2019||
