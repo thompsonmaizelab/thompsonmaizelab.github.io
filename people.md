@@ -24,6 +24,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
 |![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|MaKayla Liermann|Undergraduate Researcher|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
+|![Elliot Kadrofske](/images/People_Images/elliotkadrofske.jpg){:width="120" align="middle"}|Elliot Kadrofske|Undergraduate Researcher|||
 |![Nakoa Po](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nakoa Po|Undergraduate Researcher|||
 {:.table100.ver1}
 
@@ -40,7 +41,6 @@ googlefonts: ["Monoton", "Lobster"]
 |![Mine Gezgin](/images/People_Images/minegezgin.jpg){:width="120" align="middle"}|Mine Gezgin|Undergraduate Researcher|2018-2019| Neogen|
 |![Syed Hossain](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
 |![Christine Schafer](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
-|![Elliot Kadrofske](/images/People_Images/elliotkadrofske.jpg){:width="120" align="middle"}|Elliot Kadrofske|Undergraduate Researcher|Summer 2018-19||
 |![Folashaday Shoneye](/images/People_Images/folashadayshoneye.jpg){:width="120" align="middle"}|Folashaday Shoneye|MAP High School Researcher|Summer 2019||
 |![Jake Carden](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jake Carden|Undergraduate Researcher|Summer 2019||
 |![Justin Carbary](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Justin Carbary|Undergraduate Researcher|Summer 2019||
