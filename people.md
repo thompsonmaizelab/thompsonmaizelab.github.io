@@ -14,7 +14,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)||
 |![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|[CV](/CVs/blaketrygestad.pdf)||
 |![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Rotation Graduate Student|||
-|![Elyse Vischulis](/images/People_Images/elysevischulis.jpg){:width="120" align="middle"}|[Elyse Vischulis](/peoplepages/elysevischulis/)|PhD Rotation Graduate Student|||
+|![Elyse Vischulis](/images/People_Images/elysevischulis.jpeg){:width="120" align="middle"}|[Elyse Vischulis](/peoplepages/elysevischulis/)|PhD Rotation Graduate Student|||
 |![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|[CV](/CVs/phonglos.pdf)||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|||
 |![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
