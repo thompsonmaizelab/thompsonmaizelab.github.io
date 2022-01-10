@@ -5,7 +5,7 @@ subtitle: Maize genetics research at Michigan State University
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
-  - "/images/Front_Page_Images/group2019cropped3.jpg" : ""
+  - "/images/Front_Page_Images/group2021crop.jpg" : ""
 ---
 
 <script type="application/ld+json">
@@ -45,7 +45,7 @@ bigimg:
  "streetAddress": "1066 Bogue St",
  "addressLocality": "East Lansing",
  "addressRegion": "MI",
- "postalCode": "48864",
+ "postalCode": "48824",
  "addressCountry": "USA"
  },
  "sameAs": [
@@ -53,7 +53,7 @@ bigimg:
  ]}
 </script>
 
-![The Whole Thompson Lab](/images/Front_Page_Images/group2019cropped3.jpg){:width="900" align="middle" }
+![The Whole Thompson Lab](/images/Front_Page_Images/group2021crop.jpg){:width="900" align="middle" }
 
 Our lab is interested in studying maize, and how different genotypes grow in different environments. We use many technologies and approaches to investigate this area, from quantitative genetics to phenomics to statistical and physiological modeling. Emphasis is placed on addressing biologically meaningful and agriculturally relevant questions, with both domestic and international potential applications. 
 <br>

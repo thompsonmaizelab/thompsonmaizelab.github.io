@@ -4,6 +4,14 @@ title: Thompson Lab News
 
 ---
 
+### August 2021
+
+* Blake Trygestad successfully defends his MS degree
+
+### January 2021
+
+* Eli Hugghis successfully defends his MS degree
+
 ### January 2020
 
 * We finally have an official lab website!

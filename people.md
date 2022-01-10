@@ -8,32 +8,39 @@ googlefonts: ["Monoton", "Lobster"]
 | | **Name** | **Title**| **CV** | **ORCID**
 |![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/addiethompson/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/addiethompson.pdf)|0000-0002-4442-6578|
 |![Linsey Newton](/images/People_Images/linseynewton.jpg){:width="120" align="middle"}|[Linsey Newton](/peoplepages/linseynewton)|Lab and Field Manager|||
-|![Ruijuan Tan](/images/People_Images/ruijuantan.jpg){:width="120" align="middle"}|[Ruijuan Tan](/peoplepages/ruijuantan/)|Postdoctoral Researcher|[CV](/CVs/ruijuantan.pdf)||
-|![Zhongjie Ji](/images/People_Images/zhongjieji.jpg){:width="120" align="middle"}|[Zhongjie Ji](/peoplepages/zhongjieji/)|PhD Graduate Student|[CV](/CVs/zhongjieji.pdf)||
-|![Eli Hugghis](/images/People_Images/elihugghis.jpg){:width="120" align="middle"}|[Eli Hugghis](/peoplepages/elihugghis/)|MS Graduate Student|[CV](/CVs/elihugghis.pdf)||
-|![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)||
-|![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|[CV](/CVs/blaketrygestad.pdf)||
-|![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Rotation Graduate Student|||
+|![Ruijuan Tan](/images/People_Images/ruijuantan.jpg){:width="120" align="middle"}|[Ruijuan Tan](/peoplepages/ruijuantan/)|Postdoctoral Researcher|||
+|![Anuradha Singh](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Anuradha Singh|Postdoctoral Researcher|||
+|![Zhongjie Ji](/images/People_Images/zhongjieji.jpg){:width="120" align="middle"}|[Zhongjie Ji](/peoplepages/zhongjieji/)|PhD Graduate Student|||
+|![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|||
+|![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Graduate Student|||
+|![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|MS Graduate Student|||
+|![Jordan Manchego](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Manchego|PhD Graduate Student|||
+|![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
+|![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Lauren Truitt|Undergraduate Researcher|||
+|![Emily Mikulski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emily Mikulski|Undergraduate Researcher|||
+|![Jordan Zapata](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Zapata|Undergraduate Researcher|||
+|![Leah Durst](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Leah Durst|Undergraduate Researcher|||
+|![Mary Steusloff](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Mary Steusloff|Undergraduate Researcher|||
+|![Shane Spence](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Shane Spence|Undergraduate Researcher|||
+|![Nathan Vogel](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nathan Vogel|Undergraduate Researcher|||
+{:.table100.ver1}
+
+**Lab Alumni**
+
+| | **Name** | **Title**| **Tenure** | **Current Affiliation** |
+|![Eli Hugghis](/images/People_Images/elihugghis.jpg){:width="120" align="middle"}|[Eli Hugghis](/peoplepages/elihugghis/)|MS Graduate Student|||
+|![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|||
 |![Elyse Vischulis](/images/People_Images/elysevischulis.jpeg){:width="120" align="middle"}|[Elyse Vischulis](/peoplepages/elysevischulis/)|PhD Rotation Graduate Student|||
-|![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|[CV](/CVs/phonglos.pdf)||
-|![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|Undergraduate Researcher|||
+|![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|||
 |![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
 |![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|||
 |![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nigel Akoma|Undergraduate Researcher|||
 |![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Sophia Holtz|Undergraduate Researcher|||
 |![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Matthew Salo|Undergraduate Researcher|||
-|![Lauren Truitt](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Lauren Truitt|Undergraduate Researcher|||
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
 |![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|MaKayla Liermann|Undergraduate Researcher|||
-|![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
 |![Elliot Kadrofske](/images/People_Images/elliotkadrofske.jpg){:width="120" align="middle"}|Elliot Kadrofske|Undergraduate Researcher|||
 |![Nakoa Po](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nakoa Po|Undergraduate Researcher|||
-{:.table100.ver1}
-
-
-**Lab Alumni**
-
-| | **Name** | **Title**| **Tenure** | **Current Affiliation** |
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|2019-2020||
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|2018-2020||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|2019-2020||

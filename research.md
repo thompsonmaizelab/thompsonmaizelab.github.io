@@ -30,4 +30,4 @@ As our research in quantitative genetics relies on measuring the phenotypes of t
 
 ## Miscellaneous Other Cool Science
 
-We have several side projects, including assessing biological nitrogen fixation in dry beans, breeding population and selection optimization, rapid and low-cost detection of DNA sequences, and others. Read through the students' pages to learn more about our diverse interests!
+We have several other projects, including nitrogen response in maize, breeding population optimization, and others. Read through the [students' pages](/people/) to learn more about our diverse interests!

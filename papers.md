@@ -7,11 +7,21 @@ title: Thompson Lab Papers
 
 **Papers**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1002/essoar.10508340.1" data-style="large_rectangle" style="float:right;"></span>
+* Morris D, Shrote R, Tan R, Newton L, Goodwin R, Bunting E, Lipka A, Olsen P, **Thompson AM** (2022) [Modeling canopy architecture traits using UAS-acquired LiDAR features in diverse maize varieties](https://doi.org/10.1002/essoar.10508340.1) *ESSOAr for NAPPN 2022* doi: 10.1002/essoar.10508340.1
+
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00299-021-02722-4" data-style="large_rectangle" style="float:right;"></span>
+* Song G, Han X, Ryner JT, **Thompson AM**, Wang K (2021) [Utilizing MIKC-type MADS-box protein SOC1 for yield potential enhancement in maize](https://doi.org/10.1007/s00299-021-02722-4) *Plant Cell Rep* doi: 10.1007/s00299-021-02722-4
+
 <span class="__dimensions_badge_embed__" data-doi="10.1093/insilicoplants/diab001" data-style="large_rectangle" style="float:right;"></span>
 * Yang KW, Chapman S, Carpenter N, Hammer G, McLean G, Zheng B, Chen Y, Delp E, Masjedi A, Crawford M, Ebert D, Habib A, **Thompson AM**, Weil C, Tuinstra MR (2021) [Integrating Crop Growth Models with Remote Sensing for Predicting Biomass Yield of Sorghum](https://doi.org/10.1093/insilicoplants/diab001) *G3* doi: 10.1093/insilicoplants/diab001
 
 <span class="__dimensions_badge_embed__" data-doi="10.1093/g3journal/jkaa050" data-style="large_rectangle" style="float:right;"></span>
 * Rogers A et al. (2021) [The Importance of Dominance and Genotype-by-Environment Interactions on Grain Yield Variation in a Large-Scale Public Cooperative Maize Experiment](https://doi.org/10.1093/g3journal/jkaa050) *G3* doi: 10.1093/g3journal/jkaa050
+
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ppj2.20022" data-style="large_rectangle" style="float:right;"></span>
+* Miao C, Guo A, **Thompson AM**, Yang J, Ge Y, Schnable JC (2021) [Automation of leaf counting in maize and sorghum using deep learning](https://doi.org/10.1002/ppj2.20022) *The Plant Phenome Journal* doi: 10.1002/ppj2.20022
+
 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/aps3.11386" data-style="large_rectangle" style="float:right;"></span>
 * Raju SKK, **Thompson AM**, Schnable JC (2020) [Advances in plant phenomics: From data and algorithms to biological insights](https://doi.org/10.1002/aps3.11386) *Applications in Plant Sciences* doi: 10.1002/aps3.11386
