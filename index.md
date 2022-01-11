@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thompson Lab
+title: Thompson Lab 
 subtitle: Maize genetics research at Michigan State University
 
 googlefonts: ["Monoton", "Lobster"]
