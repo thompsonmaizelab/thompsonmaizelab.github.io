@@ -6,7 +6,7 @@ googlefonts: ["Monoton", "Lobster"]
 ---
 
 | | **Name** | **Title**| **CV** | **ORCID**
-|![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/addiethompson/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor|[CV](/CVs/addiethompson.pdf)|0000-0002-4442-6578|
+|![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/addiethompson/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor||0000-0002-4442-6578|
 |![Linsey Newton](/images/People_Images/linseynewton.jpg){:width="120" align="middle"}|[Linsey Newton](/peoplepages/linseynewton)|Lab and Field Manager|||
 |![Ruijuan Tan](/images/People_Images/ruijuantan.jpg){:width="120" align="middle"}|[Ruijuan Tan](/peoplepages/ruijuantan/)|Postdoctoral Researcher|||
 |![Anuradha Singh](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Anuradha Singh|Postdoctoral Researcher|||
