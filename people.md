@@ -22,20 +22,18 @@ googlefonts: ["Monoton", "Lobster"]
 |![Leah Durst](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Leah Durst|Undergraduate Researcher|||
 |![Mary Steusloff](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Mary Steusloff|Undergraduate Researcher|||
 |![Shane Spence](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Shane Spence|Undergraduate Researcher|||
-|![Nathan Vogel](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nathan Vogel|Undergraduate Researcher|||
-{:.table100.ver1}
 
 **Lab Alumni**
 
 | | **Name** | **Title**| **Tenure** | **Current Affiliation** |
-|![Eli Hugghis](/images/People_Images/elihugghis.jpg){:width="120" align="middle"}|[Eli Hugghis](/peoplepages/elihugghis/)|MS Graduate Student|||
-|![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student|||
+|![Eli Hugghis](/images/People_Images/elihugghis.jpg){:width="120" align="middle"}|[Eli Hugghis](/peoplepages/elihugghis/)|MS Graduate Student||Unfold|
+|![Blake Trygestad](/images/People_Images/blaketrygestad.jpg){:width="120" align="middle"}|[Blake Trygestad](/peoplepages/blaketrygestad/)|MS Graduate Student||Syngenta|
 |![Elyse Vischulis](/images/People_Images/elysevischulis.jpeg){:width="120" align="middle"}|[Elyse Vischulis](/peoplepages/elysevischulis/)|PhD Rotation Graduate Student|||
 |![Phong Los](/images/People_Images/phonglos.jpg){:width="120" align="middle"}|[Phong Los](/peoplepages/phonglos/)|Post-Bac Researcher|||
 |![Dahlia (Dayoon) Lee](/images/People_Images/dayoonlee.png){:width="120" align="middle"}|[Dayoon Lee](/peoplepages/dayoonlee/)|Visiting Scholar - Undergraduate Researcher|||
 |![Reid Becker](/images/People_Images/reidbecker.png){:width="120" align="middle"}|[Reid Becker](/peoplepages/reidbecker/)|Undergraduate Researcher|||
 |![Nigel Akoma](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Nigel Akoma|Undergraduate Researcher|||
-|![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Sophia Holtz|Undergraduate Researcher|||
+|![Sophia Holtz](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Sophia Holtz|Undergraduate Researcher||PhD student|
 |![Matthew Salo](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Matthew Salo|Undergraduate Researcher|||
 |![Emma Chrzanowski](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Emma Chrzanowski|Undergraduate Researcher|||
 |![MaKayla Liermann](/images/People_Images/makaylaliermann.jpg){:width="120" align="middle"}|MaKayla Liermann|Undergraduate Researcher|||
@@ -44,10 +42,10 @@ googlefonts: ["Monoton", "Lobster"]
 |![Joseph Kelly](/images/People_Images/josephkelly.jpg){:width="120" align="middle"}|[Joseph Kelly](/peoplepages/josephkelly/)|Undergraduate Researcher|2019-2020||
 |![Chloe Jones](/images/People_Images/chloejones.jpg){:width="120" align="middle"}|[Chloe Jones](/peoplepages/chloejones/)|Undergraduate Researcher|2018-2020||
 |![Joshua Schwartz](/images/People_Images/joshuaschwartz.jpg){:width="120" align="middle"}|[Joshua Schwartz](/peoplepages/joshuaschwartz/)|Undergraduate Researcher|2019-2020||
-![Zafar Wazir](/images/People_Images/zafarwazir.jpg){:width="120" align="middle"}|Zafar Wazir|Undergraduate Researcher|2018-2019||
+![Zafar Wazir](/images/People_Images/zafarwazir.jpg){:width="120" align="middle"}|Zafar Wazir|Undergraduate Researcher|2018-2019|PhD student|
 |![Zubair Ahmed](/images/People_Images/zubairahmed.jpg){:width="120" align="middle"}|Zubair Ahmed|Visiting Scholar|2019||
 |![Maria Khalid](/images/People_Images/mariakhalid.jpg){:width="120" align="middle"}|Maria Khalid|Visiting Scholar|2019||
-|![Mine Gezgin](/images/People_Images/minegezgin.jpg){:width="120" align="middle"}|Mine Gezgin|Undergraduate Researcher|2018-2019| Neogen|
+|![Mine Gezgin](/images/People_Images/minegezgin.jpg){:width="120" align="middle"}|Mine Gezgin|Undergraduate Researcher|2018-2019|Neogen|
 |![Syed Hossain](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Syed Hossain|HSHSP High School Researcher|Summer 2019||
 |![Christine Schafer](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Christine Schafer|REU Undergraduate Researcher|Summer 2019| |
 |![Folashaday Shoneye](/images/People_Images/folashadayshoneye.jpg){:width="120" align="middle"}|Folashaday Shoneye|MAP High School Researcher|Summer 2019||
