@@ -11,7 +11,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Ruijuan Tan](/images/People_Images/ruijuantan.jpg){:width="120" align="middle"}|[Ruijuan Tan](/peoplepages/ruijuantan/)|Postdoctoral Researcher|||
 |![Anuradha Singh](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Anuradha Singh|Postdoctoral Researcher|||
 |![Zhongjie Ji](/images/People_Images/zhongjieji.jpg){:width="120" align="middle"}|[Zhongjie Ji](/peoplepages/zhongjieji/)|PhD Graduate Student|||
-|![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|||
+|![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)|[0000-0001-6832-2629](https://orcid.org/0000-0001-6832-2629)<a href="https://orcid.org/0000-0001-6832-2629"><img src="/images/ORCID_iD.svg" style="width: 15px;"></a>|
 |![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Graduate Student|||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|MS Graduate Student|||
 |![Jordan Manchego](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Manchego|PhD Graduate Student|||
