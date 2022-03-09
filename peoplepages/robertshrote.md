@@ -5,5 +5,23 @@ title: Robert Shrote
 
 ![Robert Shrote](/images/People_Images/robertshrote.jpg){:width=600 align="middle"}|
 
-Robert completed his B.Sc in Plant Genetic, Breeding, and Biotechnology at Purdue University. He is studying the optimization of genomic selection and genomic mating in plant breeding under single- and multi-objective scenarios. He is developing novel selection and mating criteria and hopes to demonstrate their efficacy in real populations. Since many breeding optimization problems are NP-hard, he is also interested in assessing different algorithmic strategies for solving these problems. It is Robert's hope that his work will assist in decision-making for breeders and accelerate breeding efforts to provide for a growing world.
+### Overview
+Robert completed his B.Sc in Plant Genetic, Breeding, and Biotechnology at
+Purdue University. Currently, Robert is studying and developing multi-objective
+optimization strategies for applications in plant breeding. He hopes that his
+work can be used to improve crop development when there are multiple traits
+that need to be improved simultaneously.
 
+### Current projects
+Currently, Robert is working on the development of an open-source software that
+can be used to simulate and optimize plant breeding pipelines. The first version
+of this software has been completed, but he is working on writing up the
+publication. Once the published has been completed, he will release the package
+to the public.
+
+### Future projects
+In the future, Robert will be looking into testing several novel multi-objective
+breeding strategies using the software package aforementioned.
+
+### Contacts/Links
+You can find Robert on GitHub [here](https://github.com/rzshrote).
