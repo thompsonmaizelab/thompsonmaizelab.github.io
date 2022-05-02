@@ -7,6 +7,9 @@ title: Thompson Lab Papers
 
 **Papers**
 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.02.25.480753" data-style="large_rectangle" style="float:right;"></span>
+* Mural RV, Sun G, Grzybowski M, Tross MC, Jin H, Smith C, Newton L, Andorf CM, Woodhouse MR, **Thompson AM,** Sigmon B, Schnable JC (2022) [Association Mapping Across a Multitude of Traits Collected in Diverse Environments Identifies Pleiotropic Loci in Maize](https://doi.org/10.1101/2022.02.25.480753) *bioRxiv 2022.02.25.480753 2022* doi: 10.1101/2022.02.25.480753
+
 <span class="__dimensions_badge_embed__" data-doi="10.1002/essoar.10508340.1" data-style="large_rectangle" style="float:right;"></span>
 * Morris D, Shrote R, Tan R, Newton L, Goodwin R, Bunting E, Lipka A, Olsen P, **Thompson AM** (2022) [Modeling canopy architecture traits using UAS-acquired LiDAR features in diverse maize varieties](https://doi.org/10.1002/essoar.10508340.1) *ESSOAr for NAPPN 2022* doi: 10.1002/essoar.10508340.1
 
