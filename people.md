@@ -25,51 +25,43 @@ googlefonts: ["Monoton", "Lobster"]
 
 **Lab Alumni**
 
-| | **Name** | **Tenure** | **Current Affiliation** |
-*Postdoctoral Researchers*
-||Ruijuan Tan|2019-2022|Syngenta|
-*Graduate Students - MS*
-||Eli Hugghis|2018-2021|Unfold|
-||Blake Trygestad|2019-2021|Syngenta|
-*Graduate or Postdoctoral Visiting Scholars*
-||Zubair Ahmed|2018-2019||
-||Maria Khalid|2018-2019||
-*Graduate Students - Rotation*
-||Elyse Vischulis|2020||
-*Postbaccalaureate Researchers*
-||Phong Los|||
-*Undergraduate Visiting Scholars and REU*
-||Donielle Brottlund|Summer 2022||
-||Alexander Spanoudis|Summer 2021||
-||Dahlia (Dayoon) Lee|2019-2020||
-||Christine Schafer|Summer 2019||
-*High School Visiting Scholars and REU*
-||Sophia Diaz|Summer 2022||
-||Syed Hossain|Summer 2019||
-||Folashaday Shoneye|Summer 2019||
-||Katherine Pan|Summer 2018|Undergraduate|
-*Undergraduate Researchers*
-||Shane Spence|2021-2022|Graduate school|
-||Emily Mikulski|2021-2022||
-||Sophia Holtz|2020-2021|Graduate school|
-||Elliot Kadrofske|2018-2020||
-||Sidney Sitar|2019-2021|Graduate school|
-||Joseph Kelly|2019-2020||
-||Chloe Jones|2018-2020||
-||Zafar Wazir|2018-2019|Graduate school|
-||Mine Gezgin|2018-2019|Neogen|
-||Justin Carbary|Summer 2019| Graduate school|
-||Traverse Jurcisin|2018|Arjuna LLC|
-*Undergraduate Research Assistants*
-||Mary Steusloff|2021-2022||
-||Lauren Truitt|2020-2022||
-||Jordan Zapata|2021-2022||
-||Reid Becker|2020||
-||Nigel Akoma|20201||
-||Matthew Salo|2020-2021||
-||Emma Chrzanowski|2020-2021||
-||MaKayla Liermann|2020||
-||Nakoa Po|2020||
-||Joshua Schwartz|2019-2020||
-||Jake Carden|Summer 2019||
-||Kristyn Bawol|Summer 2018||
+| | **Name** | **Title** | **Tenure** | **Current Affiliation** |
+||Ruijuan Tan|Postdoctoral Researcher|2019-2022|Syngenta|
+||Eli Hugghis|MS Graduate Student|2018-2021|Unfold|
+||Blake Trygestad|MS Graduate Student|2019-2021|Syngenta|
+||Zubair Ahmed|Visiting Graduate Student|2018-2019||
+||Maria Khalid|Visiting Postdoc|2018-2019||
+||Elyse Vischulis|Rotation Student|2020||
+||Phong Los|Postbac Researcher|2018-2021||
+||Donielle Brottlund|REU Student|Summer 2022||
+||Alexander Spanoudis|REU Student|Summer 2021||
+||Dahlia (Dayoon) Lee|Undergraduate Visiting Scholar|2019-2020||
+||Christine Schafer|REU Student|Summer 2019||
+||Sophia Diaz|High School Research HSHSP|Summer 2022||
+||Syed Hossain|High School ResearchHSHSP|Summer 2019||
+||Folashaday Shoneye|High School Research MAP|Summer 2019||
+||Katherine Pan|High School Research HSHSP|Summer 2018|Undergraduate|
+||Shane Spence|Undergraduate Researcher|2021-2022|Graduate school|
+||Emily Mikulski|Undergraduate Researcher|2021-2022||
+||Sophia Holtz|Undergraduate Researcher|2020-2021|Graduate school|
+||Elliot Kadrofske|Undergraduate Researcher|2018-2020||
+||Sidney Sitar|Undergraduate Researcher|2019-2021|Graduate school|
+||Joseph Kelly|Undergraduate Researcher|2019-2020||
+||Chloe Jones|Undergraduate Researcher|2018-2020||
+||Zafar Wazir|Undergraduate Researcher|2018-2019|Graduate school|
+||Mine Gezgin|Undergraduate Researcher|2018-2019|Neogen|
+||Justin Carbary|Summer 2019|Graduate school|
+||Traverse Jurcisin|Undergraduate Researcher|2018|Arjuna LLC|
+||Mary Steusloff|Undergraduate Assistant|2021-2022||
+||Lauren Truitt|Undergraduate Assistant|2020-2022||
+||Jordan Zapata|Undergraduate Assistant|2021-2022||
+||Reid Becker|Undergraduate Assistant|2020||
+||Nigel Akoma|Undergraduate Assistant|20201||
+||Matthew Salo|Undergraduate Assistant|2020-2021||
+||Emma Chrzanowski|Undergraduate Assistant|2020-2021||
+||MaKayla Liermann|Undergraduate Assistant|2020||
+||Nakoa Po|Undergraduate Assistant|2020||
+||Joshua Schwartz|Undergraduate Assistant|2019-2020||
+||Jake Carden|Undergraduate Assistant|Summer 2019||
+||Kristyn Bawol|Undergraduate Assistant|Summer 2018||
+{:.table100.ver1}
