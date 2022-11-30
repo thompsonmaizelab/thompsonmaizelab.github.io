@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Courses taught at MSU
+title: MSU Courses
 
+googlefonts: ["Monoton", "Lobster"]
 ---
+
 
 ### CSS 844 - Frontiers in Computational and Plant Sciences
 
