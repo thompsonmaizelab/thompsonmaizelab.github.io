@@ -25,7 +25,7 @@ googlefonts: ["Monoton", "Lobster"]
 
 **Lab Alumni**
 
-| **Name** | **Tenure** | **Current Affiliation** |
+|| **Name** || **Tenure** | **Current Affiliation** |
 *Postdoctoral Researchers*
 |Ruijuan Tan|2019-2022|Syngenta|
 *Graduate Students - MS*
@@ -73,3 +73,4 @@ googlefonts: ["Monoton", "Lobster"]
 |Joshua Schwartz|2019-2020||
 |Jake Carden|Summer 2019||
 |Kristyn Bawol|Summer 2018||
+{:.table100.ver1}
