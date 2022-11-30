@@ -9,7 +9,7 @@ title: Courses taught at MSU
 * Second semester graduate course in spring semester every year
 * Course is taught as hands-on group research projects with public and private partnerships
 * Interdisciplinary research interfacing computational and plant sciences 
-* Molecular biology, phenomics, and mechanisms connecting genotype and phenotype.
+* Molecular biology, phenomics, and mechanisms connecting genotype and phenotype
 * Lead instructor Addie Thompson, with guest experts for each project/module
 * Cross-listed with BMB, HRT, PLB, CMSE
 
