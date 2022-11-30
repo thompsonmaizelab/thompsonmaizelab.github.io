@@ -38,7 +38,7 @@ googlefonts: ["Monoton", "Lobster"]
 ||Dahlia (Dayoon) Lee|Undergraduate Visiting Scholar|2019-2020||
 ||Christine Schafer|REU Student|Summer 2019||
 ||Sophia Diaz|High School Research HSHSP|Summer 2022||
-||Syed Hossain|High School ResearchHSHSP|Summer 2019||
+||Syed Hossain|High School Research HSHSP|Summer 2019||
 ||Folashaday Shoneye|High School Research MAP|Summer 2019||
 ||Katherine Pan|High School Research HSHSP|Summer 2018|Undergraduate|
 ||Shane Spence|Undergraduate Researcher|2021-2022|Graduate school|
