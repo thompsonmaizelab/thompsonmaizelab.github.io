@@ -25,52 +25,51 @@ googlefonts: ["Monoton", "Lobster"]
 
 **Lab Alumni**
 
-|| **Name** || **Tenure** | **Current Affiliation** |
+| | **Name** | **Tenure** | **Current Affiliation** |
 *Postdoctoral Researchers*
-|Ruijuan Tan|2019-2022|Syngenta|
+||Ruijuan Tan|2019-2022|Syngenta|
 *Graduate Students - MS*
-|Eli Hugghis|2018-2021|Unfold|
-|Blake Trygestad|2019-2021|Syngenta|
+||Eli Hugghis|2018-2021|Unfold|
+||Blake Trygestad|2019-2021|Syngenta|
 *Graduate or Postdoctoral Visiting Scholars*
-|Zubair Ahmed|2018-2019||
-|Maria Khalid|2018-2019||
+||Zubair Ahmed|2018-2019||
+||Maria Khalid|2018-2019||
 *Graduate Students - Rotation*
-|Elyse Vischulis|2020||
+||Elyse Vischulis|2020||
 *Postbaccalaureate Researchers*
-|Phong Los|||
+||Phong Los|||
 *Undergraduate Visiting Scholars and REU*
-|Donielle Brottlund|Summer 2022||
-|Alexander Spanoudis|Summer 2021||
-|Dahlia (Dayoon) Lee|2019-2020||
-|Christine Schafer|Summer 2019||
+||Donielle Brottlund|Summer 2022||
+||Alexander Spanoudis|Summer 2021||
+||Dahlia (Dayoon) Lee|2019-2020||
+||Christine Schafer|Summer 2019||
 *High School Visiting Scholars and REU*
-|Sophia Diaz|Summer 2022||
-|Syed Hossain|Summer 2019||
-|Folashaday Shoneye|Summer 2019||
-|Katherine Pan|Summer 2018|Undergraduate|
+||Sophia Diaz|Summer 2022||
+||Syed Hossain|Summer 2019||
+||Folashaday Shoneye|Summer 2019||
+||Katherine Pan|Summer 2018|Undergraduate|
 *Undergraduate Researchers*
-|Shane Spence|2021-2022|Graduate school|
-|Emily Mikulski|2021-2022||
-|Sophia Holtz|2020-2021|Graduate school|
-|Elliot Kadrofske|2018-2020||
-|Sidney Sitar|2019-2021|Graduate school|
-|Joseph Kelly|2019-2020||
-|Chloe Jones|2018-2020||
-|Zafar Wazir|2018-2019|Graduate school|
-|Mine Gezgin|2018-2019|Neogen|
-|Justin Carbary|Summer 2019| Graduate school|
-|Traverse Jurcisin|2018|Arjuna LLC|
+||Shane Spence|2021-2022|Graduate school|
+||Emily Mikulski|2021-2022||
+||Sophia Holtz|2020-2021|Graduate school|
+||Elliot Kadrofske|2018-2020||
+||Sidney Sitar|2019-2021|Graduate school|
+||Joseph Kelly|2019-2020||
+||Chloe Jones|2018-2020||
+||Zafar Wazir|2018-2019|Graduate school|
+||Mine Gezgin|2018-2019|Neogen|
+||Justin Carbary|Summer 2019| Graduate school|
+||Traverse Jurcisin|2018|Arjuna LLC|
 *Undergraduate Research Assistants*
-|Mary Steusloff|2021-2022||
-|Lauren Truitt|2020-2022||
-|Jordan Zapata|2021-2022||
-|Reid Becker|2020||
-|Nigel Akoma|20201||
-|Matthew Salo|2020-2021||
-|Emma Chrzanowski|2020-2021||
-|MaKayla Liermann|2020||
-|Nakoa Po|2020||
-|Joshua Schwartz|2019-2020||
-|Jake Carden|Summer 2019||
-|Kristyn Bawol|Summer 2018||
-{:.table100.ver1}
+||Mary Steusloff|2021-2022||
+||Lauren Truitt|2020-2022||
+||Jordan Zapata|2021-2022||
+||Reid Becker|2020||
+||Nigel Akoma|20201||
+||Matthew Salo|2020-2021||
+||Emma Chrzanowski|2020-2021||
+||MaKayla Liermann|2020||
+||Nakoa Po|2020||
+||Joshua Schwartz|2019-2020||
+||Jake Carden|Summer 2019||
+||Kristyn Bawol|Summer 2018||
