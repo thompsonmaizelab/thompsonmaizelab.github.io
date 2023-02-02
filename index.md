@@ -55,7 +55,7 @@ bigimg:
 
 ![The Whole Thompson Lab](/images/Front_Page_Images/group2021crop.jpg){:width="900" align="middle" }
 
-Our lab is interested in studying maize, and how different genotypes grow in different environments. We use many technologies and approaches to investigate this area, from quantitative genetics to phenomics to statistical and physiological modeling. Emphasis is placed on addressing biologically meaningful and agriculturally relevant questions, with both domestic and international potential applications. 
+Our lab is interested in studying maize as well as sorghum, and how different genotypes grow in different environments. We use many technologies and approaches to investigate this area, from quantitative genetics to phenomics to statistical and physiological modeling. Emphasis is placed on addressing biologically meaningful and agriculturally relevant questions, with both domestic and international potential applications. 
 <br>
 Read more about [ongoing projects in the lab](/research/).
 <br>
