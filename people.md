@@ -13,6 +13,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)|[0000-0001-6832-2629](https://orcid.org/0000-0001-6832-2629)<a href="https://orcid.org/0000-0001-6832-2629"><img src="/images/ORCID_iD.svg" style="width: 15px;"></a>|
 |![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Graduate Student|||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|MS Graduate Student|||
+|![Elliot Braun](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Elliot Braun|PhD Graduate Student|||
 |![Jordan Manchego](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Manchego|PhD Graduate Student|||
 |![Ally Schumacher](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Ally Schumacher|PhD Graduate Student|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
