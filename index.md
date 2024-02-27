@@ -36,7 +36,7 @@ bigimg:
  "jobTitle": "Assistant Professor",
  "nationality": "American",
  "sameAs": [
-   "https://twitter.com/addie_may",
+   "https://twitter.com/addie_maize",
    "https://scholar.google.com/citations?user=gNpsbkoAAAAJ&hl=en"
  ]
  }],
