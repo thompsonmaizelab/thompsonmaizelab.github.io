@@ -8,26 +8,26 @@ googlefonts: ["Monoton", "Lobster"]
 
 ### Heirloom maize jewelry
 
-We have a fascination with colorful maize kernels! Using tiny drill bits, we drill holes in corn kernels to use them as beads in jewelry making. At this time, our jewelry is for outreach and education with visitors, social activities, or charity events (including auctions), but not for direct sale through us. If you have received one of our pieces, feel free to send thank-yous to the makers and contribute images here. You can learn more about the heirloom varieties used in our projects here.
+We have a fascination with colorful maize kernels! Using tiny drill bits, we drill holes in corn kernels to use them as beads in jewelry making. If you have received one of our pieces, feel free to send thank-yous to the makers and contribute images via email to Addie.
 
+The heirloom seeds come from traditional varieties from throughout the United States. Learn more about scientific research applications of heirloom corn with the [Flint-Garcia lab at Mizzou](https://flint-garcias.mufaculty.umsystem.edu).
 
 ### Summer research programs
 
 We participate in several summer research programs:
 
-## High school level
+#### High school level
 
-* Multicultural Apprenticeship Program
-* High School Honors Science Program
+* [Multicultural Apprenticeship Program](https://www.canr.msu.edu/academics/pre_college/multicultural_apprenticeship_program_map/index)
+* [High School Honors Science Program](https://education.msu.edu/hshsp/)
 
-## Undergraduate level
+#### Undergraduate level
 
-* Plant Genomics REU
+* [Plant Genomics REU](https://plantgenomics.natsci.msu.edu)
 
 ### Ecotek Labs
 
 Mentoring Detroit-area high school students with hands-on lab research each month
-
 
 ### Michigan Corn
 
@@ -36,6 +36,6 @@ Mentoring Detroit-area high school students with hands-on lab research each mont
 
 ### Other outreach
 
-* Nourish the Future
-* World Food Prize Michigan Youth Institute
+* [Nourish the Future](https://nourishthefuture.org)
+* [World Food Prize Michigan Youth Institute](https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/michigan/) - find your state event [here](https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/)
 * FFA field/lab tours
