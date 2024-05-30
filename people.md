@@ -14,7 +14,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Graduate Student|||
 |![Sidney Sitar](/images/People_Images/sidneysitar.jpg){:width="120" align="middle"}|[Sidney Sitar](/peoplepages/sidneysitar/)|MS Graduate Student|||
 |![Elliot Braun](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Elliot Braun|PhD Graduate Student|||
-|![Eleanor Carr](/images/People_Images/eleanorcarr.jpeg){:width="120" align="middle"}|Eleanor Carr|PhD Graduate Student|/peoplepages/eleanorcarr/||
+|![Eleanor Carr](/images/People_Images/eleanorcarr.jpeg){:width="120" align="middle"}|[Eleanor Carr](/peoplepages/eleanorcarr/)|PhD Graduate Student|||
 |![Jordan Manchego](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Manchego|PhD Graduate Student|||
 |![Ally Schumacher](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Ally Schumacher|PhD Graduate Student|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
