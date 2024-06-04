@@ -23,7 +23,9 @@ googlefonts: ["Monoton", "Lobster"]
 |![Griffin Clements](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Griffin Clements|Undergraduate Researcher|||
 |![Andrew Yonker](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Andrew Yonker|Undergraduate Researcher|||
 |![Lucas Townsend](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Lucas Townsend|Undergraduate Researcher|||
-|![Larissa Duff](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Larissa Duff|Undergraduate Visitor|||
+|![Larissa Duff](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Larissa Duff|Undergraduate Visitor|||  
+|![Caitlin Dougherty](/images/People_Images/caitlindougherty.JPG){:height="120" :width="120" align="middle"}|Caitlin Dougherty|Undergraduate Researcher||||   
+|![Carolina Wheeler](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Wheeler|Undergraduate Researcher||||
 
 **Lab Alumni**
 
