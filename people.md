@@ -8,7 +8,7 @@ googlefonts: ["Monoton", "Lobster"]
 | | **Name** | **Title**| **CV** | **ORCID**|
 |![Addie Thompson](/images/People_Images/addiethompson.jpg){:width="120" align="middle"}|[Addie Thompson](/peoplepages/addiethompson/)<a href="https://twitter.com/addie_may"><img src="/images/Twitter_logo_blue.png" style="width: 15px;"></a>|Assistant Professor||0000-0002-4442-6578|
 |![Linsey Newton](/images/People_Images/linseynewton.jpg){:width="120" align="middle"}|[Linsey Newton](/peoplepages/linseynewton)|Lab and Field Manager|||
-|![Anuradha Singh](/images/People_Images/Anu_1.jfif){:width="120" align="middle"}|[Anuradha Singh](/peoplepages/anuradhasingh)|Research Associate|[CV] (CVs/CV_Anuradha.pdf)|||
+|![Anuradha Singh](/images/People_Images/Anu_1.jfif){:width="120" align="middle"}|[Anuradha Singh](/peoplepages/anuradhasingh)|Research Associate|[CV](CVs/CV_Anuradha.pdf)|||
 |![Zhongjie Ji](/images/People_Images/zhongjieji.jpg){:width="120" align="middle"}|[Zhongjie Ji](/peoplepages/zhongjieji/)|PhD Graduate Student|||
 |![Robert Shrote](/images/People_Images/robertshrote.jpg){:width="120" align="middle"}|[Robert Shrote](/peoplepages/robertshrote/)|PhD Graduate Student|[CV](/CVs/robertshrote.pdf)|[0000-0001-6832-2629](https://orcid.org/0000-0001-6832-2629)<a href="https://orcid.org/0000-0001-6832-2629"><img src="/images/ORCID_iD.svg" style="width: 15px;"></a>|
 |![Brandon Webster](/images/People_Images/brandonwebster.jpg){:width="120" align="middle"}|[Brandon Webster](/peoplepages/brandonwebster/)|PhD Graduate Student|||
