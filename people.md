@@ -17,7 +17,7 @@ googlefonts: ["Monoton", "Lobster"]
 |![Eleanor Carr](/images/People_Images/eleanorcarr.jpeg){:width="120" align="middle"}|[Eleanor Carr](/peoplepages/eleanorcarr/)|PhD Graduate Student|||
 |![Jordan Manchego](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Jordan Manchego|PhD Graduate Student|||
 |![Ally Schumacher](/images/People_Images/allyschumacher.jpg){:width="120" align="middle"}|Ally Schumacher|PhD Graduate Student||[0000-0002-2413-1537](https://orcid.org/0000-0002-2413-1537) <a href="https://orcid.org/0000-0002-2413-1537"></a>|  
-|![Donielle Brottlund](/images/People_Images/doniellebrottlund.jpg){:width="120" align="middle"}|Donielle Brottlund|PhD Graduate Student|||
+|![Donielle Brottlund](/images/People_Images/doniellebrottlund.JPG){:width="120" align="middle"}|Donielle Brottlund|PhD Graduate Student|||
 |![Carolina Freitas](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Carolina Freitas|Undergraduate Researcher|||
 |![Leah Durst](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Leah Durst|Undergraduate Researcher|||
 |![Kristen Tran](/images/People_Images/nopictureyet.png){:width="120" align="middle"}|Kristen Tran|Undergraduate Researcher|||
