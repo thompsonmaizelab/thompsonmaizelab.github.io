@@ -20,7 +20,7 @@ One of the applications of this research is our current project on isolating and
 
 <a id="Phenotying" />
 
-## High Throughoupt  Phenotyping
+## High Throughput  Phenotyping
 
 As our research in quantitative genetics relies on measuring the phenotypes of thousands of individuals and/or plots, we must have the ability to collect data accurately and efficiently within discrete time intervals. Working with computer scientists, engineers and other experts, we are innovating new approaches for data collection and analysis. Our projects here are at the intersection of computational and plant sciences, making them a good fit for the [IMPACTS Program](https://impacts.natsci.msu.edu).
 
